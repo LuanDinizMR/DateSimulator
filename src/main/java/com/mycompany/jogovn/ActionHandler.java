@@ -42,7 +42,12 @@ public class ActionHandler implements ActionListener{
                     gm.sc.badEnding1();
                 }
                 break;
-            case"goSala": gm.sc.showScene4(); break;
+            case"goSala": 
+                if (gm.sc.i!=30){
+                gm.sc.showScene4();}
+                else{
+                    gm.sc.badEnding1();
+                } break;
             //Arbusto
             case "falarArb": gm.ev1.falarArb(); break;
             case "olharArb": gm.ev1.olharArb(); break;

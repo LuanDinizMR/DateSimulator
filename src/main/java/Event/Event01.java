@@ -49,7 +49,7 @@ public class Event01 {
         }
         else{
             gm.sc.finalSamuel();
-            gm.ui.text.setText("Ao entregar a moeda ele diz: Olha só você achou a *moedinha da sorte* , até que você não foi de toda inutil. Eu vou com você na porcaria do Arraial.\nVocês vão ao arraial e o muita gente olha assutada para o belo casal que foi formado... Mas o que importa é que você tem um par."); 
+            gm.ui.text.setText("Ao entregar a moeda ele diz:' Olha só você achou a *moedinha da sorte* , até que você não foi de toda inutil. Eu vou com você na porcaria do Arraial.'\nVocês vão ao arraial e o muita gente olha assutada para o belo casal que foi formado... Mas o que importa é que você tem um par."); 
         }
     }
     public void flertarS(){
@@ -65,7 +65,7 @@ public class Event01 {
         }
         else{
             gm.sc.finalRafa();
-            gm.ui.text.setText("Ao entregar a carteira ele diz: Olha você achou minha carteira... Espero que não tenha pego nenhum dinheiro...\nMas bom como você me ajudou acho que posso ir ao arraial com você, mas não me encosta.\n Vocês vão ao arraial porem na hora da dança, ele te olha estranho toda vez que você encosta nele, mesmo sem querer... mas bom ao menos você tem um par."); 
+            gm.ui.text.setText("Ao entregar a carteira ele diz: 'Olha você achou meu carttão... Espero que não tenha usado pra comprar nada...\nMas bom como você me ajudou acho que posso ir ao arraial com você, mas não me encosta.'\n Vocês vão ao arraial porem na hora da dança, ele te olha estranho toda vez que você encosta nele, mesmo sem querer... mas bom ao menos você tem um par."); 
         }
         
     }
@@ -82,7 +82,7 @@ public class Event01 {
         }
         else{
             gm.sc.finalLucas();
-            gm.ui.text.setText("Ao devolver a moeda ele diz: Olha você achou a moeda, vou devolver pra ele, ai ele vai parar de correr atrás de mim e vamos poder ir ao arraial.\nVocê escuta uns barulhos vndos do corredor e ele volta com um olho roxo.\n Porêm você vai para o arraial com ele, e acaba se divertindo muito, parece que ao final das contas ele tinha um bom coração."); 
+            gm.ui.text.setText("Ao devolver a moeda ele diz: 'Olha você achou a moeda, vou devolver pra ele, ai ele vai parar de correr atrás de mim e vamos poder ir ao arraial'.\nVocê escuta uns barulhos vndos do corredor e ele volta com um olho roxo.\n Porêm você vai para o arraial com ele, e acaba se divertindo muito, parece que ao final das contas ele tinha um bom coração."); 
         }
         
     }
