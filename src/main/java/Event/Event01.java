@@ -14,7 +14,7 @@ public class Event01 {
         }
         else{
             gm.sc.finalRobson();
-            gm.ui.text.setText("Ele fica muito grato por ter seu carregador de volta e vocês vão juntos a quadrilha, infelizmente ele para a cada 3 segundos para tentar vender ingressos de festa para alguem. Ao menos você conseguiu um par..."); 
+            gm.ui.text.setText("Ele fica muito grato por ter seu lápis de volta e vocês vão juntos a quadrilha, infelizmente ele para a cada 3 segundos para tentar vender ingressos de festa para alguem. Ao menos você conseguiu um par..."); 
         }
         
     }
