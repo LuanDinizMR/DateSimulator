@@ -10,7 +10,7 @@ public class Event01 {
     //Robson
     public void falarR(){
         if(gm.player.hasPencil==0){
-           gm.ui.text.setText("Robson, O Cambista:\nCoé quer comprar ingresso pra festa?\nDançar quadrilha? Eu até iria, mas perdi meu Lapís, to tendo que anotar as vendas com um gis de cera que eu achei\nSe vc achar pra mim eu vou com você\n Até agora a pouco quando eu tava na quadra eu tava com ele, não sei oque aconteceu."); 
+           gm.ui.text.setText("Robson, O Cambista:\nCoé quer comprar ingresso pra festa?\nDançar quadrilha? Eu até iria, mas perdi meu Lapís, to tendo que anotar as vendas com um giz de cera que eu achei\nSe vc achar pra mim eu vou com você\n Até agora a pouco quando eu tava na quadra eu tava com ele, não sei oque aconteceu."); 
         }
         else{
             gm.sc.finalRobson();
