@@ -20,7 +20,7 @@ public class SceneChanger {
         gm.ui.bgPanel[2].setVisible(false);
         gm.ui.bgPanel[0].setVisible(true);
         gm.ui.bgPanel[4].setVisible(false);
-        gm.ui.text.setText("Daqui a 30 minutos é a quadrilha e você não tem ninguem para dançar!\\nVocê precisa achar um parceiro ou todos rirão de você!");
+        gm.ui.text.setText("Daqui a 30 minutos é a quadrilha e você não tem ninguem para dançar!\nVocê precisa achar um parceiro ou todos rirão de você!");
         
     }
     public void showScene1(){

@@ -43,7 +43,7 @@ public class UI {
         window.getContentPane().setBackground(Color.black);
         window.setLocationRelativeTo(null);
         window.setLayout(null);
-        text = new JTextArea("Daqui a 30 minutos é a quadrilha e você não tem ninguem para dançar!\nVocê precisa achar um parceiro ou todos rirão de você!");
+        text = new JTextArea("Daqui a 30 minutos é a quadrilha e você não tem ninguem para dançar!Você precisa achar um parceiro ou todos rirão de você!");
         text.setBounds(50,410,700,400);
         text.setBackground(Color.black);
         text.setForeground(Color.white);
